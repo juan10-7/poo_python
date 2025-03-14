@@ -46,7 +46,12 @@ class NombreClase:
   - pudes definir tantos parametros en el contructor y en los meetodos como necesites.
 
 
-
+## composición
+- consiste en la creación de nuevas clases a partir de otras clases ya existentes que ayudan como elementos compositores de la nueva.
+- las clases existentes seran atributos de la nueva clase.
+- en poo la compisicion significa que entre las dos clases existe una relación e tipo "tiene un".
+- Ejemplo:
+    - una coorenada en dos dimensiones esta compuesta por dos valores el valor en el eje de lasx y el valor en el eje de las y, esto podría ser una clase. Un cuadrado esta compuesto por cuatro coordenadas que són los cuatro vértices, esto podria ser una clase que esta compuesta por cuatro clases del objeto ordenado.
 
 
 
