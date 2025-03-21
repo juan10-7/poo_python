@@ -16,7 +16,7 @@ class persona:
 def main():
     p1 = persona("juan", "cala", 15)
     p1.MostrarPersona()
-    p2 = persona("jorge", "luis", 15)
+    p2 = persona("jorge", "luis", 49)
     p2.MostrarPersona()
     p1.Edad = 15
     p1.MostrarPersona()
